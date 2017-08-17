@@ -15,7 +15,6 @@
                 "courseData": "step2.sh",
                 "text": "step2.md"
             }
- 
         ],
         "intro": {
             "text": "intro.md",
@@ -27,9 +26,10 @@
         }
     },
     "environment": {
-        "uilayout": "terminal",
+        "uilayout": "terminal"
     },
     "backend": {
 		    "imageid": "ubuntu"
     }
 }
+
