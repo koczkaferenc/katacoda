@@ -7,10 +7,9 @@
         "steps": [
             {
                 "title": "A grep",
-                "text": "step1.md",
-                "courseData": "step1.sh",
-								"verify": "step1-verify.sh",
-								"answer": "step1-answer.md"
+                "text": "step1-question.md",
+								"answer": "step1-answer.md",
+								"verify": "step1-verify.sh"
             },
             {
                 "title": "A wc",
