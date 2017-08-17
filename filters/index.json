@@ -7,13 +7,13 @@
         "steps": [
             {
                 "title": "A grep",
-                "courseData": "runme.sh",
+                "courseData": "assets/runme.sh",
                 "text": "step1.md"
             }
         ],
         "intro": {
             "text": "intro.md",
-            "courseData": "courseBase.sh",
+            "courseData": "assets/courseBase.sh",
             "credits": "Credits ide"
         },
         "finish": {
