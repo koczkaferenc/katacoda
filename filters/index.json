@@ -9,7 +9,13 @@
                 "title": "A grep",
                 "courseData": "step1.sh",
                 "text": "step1.md"
+            },
+            {
+                "title": "A wc",
+                "courseData": "step2.sh",
+                "text": "step2.md"
             }
+ 
         ],
         "intro": {
             "text": "intro.md",

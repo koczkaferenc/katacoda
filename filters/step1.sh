@@ -1,3 +1,1 @@
-#!/bin/bash
-
-echo "hello" >/tmp/courseBase.txt
+echo "hello" >/tmp/Hello.txt
