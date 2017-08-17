@@ -8,7 +8,7 @@
             {
                 "title": "Step 1 - Setup Scenario",
                 "courseData": "simulate-load.sh",
-                "text": "filters/step1.md"
+                "text": "/filters/step1.md"
             },
             {
                 "title": "Step 2 - Launch Sysdig",
