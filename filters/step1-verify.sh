@@ -1,1 +1,2 @@
-(( $( -d /tmp/aa) )) && echo \"done\"
+[ -d /tmp/aa ] && echo done
+
