@@ -1,2 +1,1 @@
-mkdir /tmp/aa
-```{{execute}}
+`mkdir /tmp/aa`{{execute}}
