@@ -1,3 +1,5 @@
+![Sysdig architecture](https://github.com/katacoda-scenarios/sysdig-scenarios/raw/master/sysdig-container-visibility/assets/sysdig_diagram.png)
+
 Sysdig is an open source tool for deep system visibility that comes with container native support.
 
 Think of all the system health and performance monitoring tools you used for troubleshooting but but working together and container-aware:
