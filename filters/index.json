@@ -8,7 +8,7 @@
             {
                 "title": "A grep",
                 "courseData": "runme.sh",
-                "text": "filters/step1.md"
+                "text": "step1.md"
             }
         ],
         "intro": {
