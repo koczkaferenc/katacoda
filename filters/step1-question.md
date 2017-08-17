@@ -1,1 +1,1 @@
-Hozz létre az akuális könyvtárban egy teszt nevű könyvtárat!
+Make a directory in the /tmp! Its name must be aa.
