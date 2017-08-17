@@ -7,7 +7,7 @@
         "steps": [
             {
                 "title": "A grep",
-                "courseData": "runme.sh",
+                "courseData": "step1.sh",
                 "text": "step1.md"
             }
         ],
