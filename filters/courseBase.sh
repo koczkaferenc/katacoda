@@ -1,3 +1,3 @@
-#!/bin/bash
+#!/bin/sh
 
 echo "CourseBase" >/tmp/courseBase.txt
