@@ -1,1 +1,1 @@
-`cd /var/tmp`{{execute}}
+`cd ..`{{execute}}

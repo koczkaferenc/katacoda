@@ -1,1 +1,1 @@
-/var/tmp{{execute}}
+`ls -l /etc/*.conf`{{execute}}

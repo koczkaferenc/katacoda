@@ -1,1 +1,1 @@
-/var/tmp{{execute}}
+`rm -r Teszt`p{{execute}}

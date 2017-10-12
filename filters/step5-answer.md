@@ -1,1 +1,1 @@
-/var/tmp{{execute}}
+`mkdir -p Teszt/Unix/Linux/Debian`{{execute}}
