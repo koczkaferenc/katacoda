@@ -1,1 +1,1 @@
-`mkdir /tmp/munka`{{execute}}
+`pwd`{{execute}}

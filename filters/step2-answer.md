@@ -1,1 +1,1 @@
-`mkdir /tmp/munka`{{execute}}
+`cd /etc`{{execute}}

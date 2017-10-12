@@ -1,1 +1,1 @@
-[ -d /tmp/munka ] && echo "done"
+echo "done"
