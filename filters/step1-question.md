@@ -1,5 +1,6 @@
 Melyik az aktuális könyvtár?
 
+<pre>
 gyakorlat
  |
  |--Proba
@@ -11,3 +12,4 @@ gyakorlat
  |
  |--Check
     |--Tmp
+</pre>
