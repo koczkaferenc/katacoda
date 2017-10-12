@@ -1,1 +1,1 @@
-`rm -r Teszt`p{{execute}}
+`rm -r Teszt`{{execute}}
