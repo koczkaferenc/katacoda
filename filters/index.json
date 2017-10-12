@@ -9,18 +9,66 @@
             "courseData": "courseBase.sh",
             "credits": ""
         },
- 
         "steps": [
             {
-                "title": "Könyvtár létrehozása",
-                "text": "step1-question.md",
-								"answer": "step1-answer.md",
-								"verify": "step1-verify.sh"
+                "title":  "1",
+                "text":   "step1-question.md",
+                "answer": "step1-answer.md",
+                "verify": "step1-verify.sh"
             },
             {
-                "title": "",
-                "courseData": "step2.sh",
-                "text": "step2.md"
+                "title":  "2",
+                "text":   "step2-question.md",
+                "answer": "step2-answer.md",
+                "verify": "step2-verify.sh"
+            },
+            {
+                "title":  "3",
+                "text":   "step3-question.md",
+                "answer": "step3-answer.md",
+                "verify": "step3-verify.sh"
+            },
+            {
+                "title":  "4",
+                "text":   "step4-question.md",
+                "answer": "step4-answer.md",
+                "verify": "step4-verify.sh"
+            },
+            {
+                "title":  "5",
+                "text":   "step5-question.md",
+                "answer": "step5-answer.md",
+                "verify": "step5-verify.sh"
+            },
+            {
+                "title":  "6",
+                "text":   "step6-question.md",
+                "answer": "step6-answer.md",
+                "verify": "step6-verify.sh"
+            },
+            {
+                "title":  "7",
+                "text":   "step7-question.md",
+                "answer": "step7-answer.md",
+                "verify": "step7-verify.sh"
+            },
+            {
+                "title":  "8",
+                "text":   "step8-question.md",
+                "answer": "step8-answer.md",
+                "verify": "step8-verify.sh"
+            },
+            {
+                "title":  "9",
+                "text":   "step9-question.md",
+                "answer": "step9-answer.md",
+                "verify": "step9-verify.sh"
+            },
+            {
+                "title":  "10",
+                "text":   "step10-question.md",
+                "answer": "step10-answer.md",
+                "verify": "step10-verify.sh"
             }
         ],
        "finish": {
