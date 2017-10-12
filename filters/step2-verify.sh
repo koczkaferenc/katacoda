@@ -1,4 +1,4 @@
 #!/bin/bash
 if [ $(pwd) == "/etc" ] ; then
-  echo "done"
+  echo "donei\n"
 fi

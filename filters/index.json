@@ -79,7 +79,7 @@
         "uilayout": "terminal"
     },
     "backend": {
-		    "imageid": "bash"
+		    "imageid": "ubuntu"
     }
 }
 
