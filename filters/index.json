@@ -1,24 +1,24 @@
 {
-    "title": "Unix: szűrők",
-    "description": "Unix filterek",
+    "title": "Unix: könyvtárak",
+    "description": "Unix könyvtárkezelés",
     "difficulty": "beginner",
     "time": "10-15 minutes",
     "details": {
         "intro": {
             "text": "intro.md",
             "courseData": "courseBase.sh",
-            "credits": "Bővebben a szűrőkről itt olvashatsz: http://koczka.com/_static/szurok/szurok.html"
+            "credits": ""
         },
  
         "steps": [
             {
-                "title": "A grep",
+                "title": "Könyvtár létrehozása",
                 "text": "step1-question.md",
 								"answer": "step1-answer.md",
 								"verify": "step1-verify.sh"
             },
             {
-                "title": "A wc",
+                "title": "",
                 "courseData": "step2.sh",
                 "text": "step2.md"
             }
