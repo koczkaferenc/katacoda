@@ -1,1 +1,3 @@
-[ -d /tmp/aa ] && echo done
+if [ -d /tmp/aa ] ; then 
+  echo done
+fi
