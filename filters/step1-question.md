@@ -1,1 +1,1 @@
-Make a directory in the /tmp! Its name must be aa.
+Készíts egy új könyvtárat a /tmp könyvtérba, a neve legyen munka!

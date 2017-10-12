@@ -1,1 +1,1 @@
-`mkdir /tmp/aa`{{execute}}
+`mkdir /tmp/munka`{{execute}}

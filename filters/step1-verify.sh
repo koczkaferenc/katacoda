@@ -1,3 +1,1 @@
-if [ -d /tmp/aa ] ; then 
-  echo done
-fi
+[ -d /tmp/munka ] && echo "done"
